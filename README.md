@@ -29,3 +29,14 @@ It helps farmers and users:
 ---
 
 ## 📂 Project Structure
+Plant_Disease_Detection/
+│── train/ # Training dataset (ignored in Git)
+│── valid/ # Validation dataset (ignored in Git)
+│── model/ # Saved trained model
+│── app.py / main.py # Main application file
+│── requirements.txt # Dependencies
+│── README.md # Project documentation
+
+## Adnan Ahamad
+adnan14101@gmail.com
+9530121617
